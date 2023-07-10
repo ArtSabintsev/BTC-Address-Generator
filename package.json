@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.0",
+    "hdkey": "^2.1.0"
+  }
+}
